@@ -58,7 +58,7 @@ jobs:
     - name: Azure Deploy
       uses: azure/webapps-deploy@v2
       with:
-        app-name: 'github-yaml-maden'
+        app-name: 'github-yaml-kevinr'
         package: webapp
 
 
